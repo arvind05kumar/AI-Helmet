@@ -1,4 +1,3 @@
-// src/App.jsx
 import { useState, useEffect } from 'react';
 
 function App() {
@@ -10,7 +9,7 @@ function App() {
 
   return (
     <div style={{ fontFamily: 'Arial, sans-serif', textAlign: 'center', marginTop: '3rem' }}>
-      <h1>🪖 AI Helmet Dashboard</h1>
+      <h1>AI Helmet Dashboard</h1>
       <p>Welcome to your Helmet monitoring app!</p>
       <p>
         <strong>Counter:</strong> {count}
